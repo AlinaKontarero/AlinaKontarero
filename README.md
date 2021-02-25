@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I’m currently working at Pendula 
-- 🌱 I’m currently learning Advanced React and UI 
+- ⚡ Working at Pendula 
+- 🌱 Learning Advanced React and UI 
 - :star: I make UI alive
 - :mag: Professional Googler
