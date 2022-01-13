@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Working on cloud security
-- 📚 Preparing to AWS Associate Developer Certification
-- 🌱 Learning Advanced React and UI 
+- 📚 Passed AWS Associate Developer Certification
+- 🌱 Learning Serverless
 - :star: I make UI alive
 - :mag: Professional Googler
